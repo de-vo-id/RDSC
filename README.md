@@ -18,5 +18,5 @@ Release 1.1 (8.25.2022)
 -Support for clients on znext channel
 
 Release 1.2B (8.25.2022)
--Preliminary Mac support
+-Preliminary MacOS support
 ___________________________________________________
