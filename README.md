@@ -8,15 +8,19 @@ Requires Python 3.9.6 (https://www.python.org/downloads/) (If on Windows, must h
 ___________________________________________________
 Running on Windows:
 
+-Extract zip to a folder
+
 -Run "run-windows.bat"
 ___________________________________________________
 Running on MacOS:
 
-Open Terminal
+-Extract zip to a folder
 
-Type "cd [FILE DIRECTORY]" and press Enter
+-Open Terminal
 
-Type "python3 script.py" and press Enter
+-Type "cd [FILE DIRECTORY]" and press Enter
+
+-Type "python3 script.py" and press Enter
 ___________________________________________________
 Release log:
 
