@@ -32,4 +32,7 @@ Release 1.1 (8.25.2022)
 
 Release 1.2B (8.25.2022)
 -Preliminary MacOS support
+
+Release 1.3 (8.25.2022)
+-Finished MacOS support
 ___________________________________________________
