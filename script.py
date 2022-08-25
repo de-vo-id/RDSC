@@ -1,6 +1,6 @@
 #[
 # Roblox Death Sound Changer
-# Creator: devoid#5177 
+# Creator: DEVOID
 # Last update: August 25 2022
 #]
 
