@@ -6,14 +6,17 @@ This project is licensed under MIT, which allows anybody to modify it, whether p
 ___________________________________________________
 Requires Python 3.9.6 (https://www.python.org/downloads/) (If on Windows, must have access to PATH)
 ___________________________________________________
-How to run:
-Windows:
-Run "run-windows.bat"
+Running on Windows:
 
-Mac:
+-Run "run-windows.bat"
+___________________________________________________
+Running on MacOS:
+
 Open Terminal
+
 Type "cd [FILE DIRECTORY]" and press Enter
-Type python3 script.py and press Enter
+
+Type "python3 script.py" and press Enter
 ___________________________________________________
 Release log:
 
