@@ -7,7 +7,13 @@ ___________________________________________________
 Requires Python 3.9.6 (https://www.python.org/downloads/) (If on Windows, must have access to PATH)
 ___________________________________________________
 How to run:
-Run the "run-mac.sh" file if you are on Mac, or run "run-windows.bat" if you are on Windows.
+Windows:
+Run "run-windows.bat"
+
+Mac:
+Open Terminal
+Type "cd [FILE DIRECTORY]" and press Enter
+Type python3 script.py and press Enter
 ___________________________________________________
 Release log:
 
