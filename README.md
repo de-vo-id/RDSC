@@ -5,7 +5,7 @@ ___________________________________________________
 This project is licensed under MIT, which allows anybody to modify it, whether publicly or privately, if they wish.
 ___________________________________________________
 Requirements: 
--Python 3.9.6 (https://www.python.org/downloads/) (If on Windows, must have access to PATH)
+Python 3.9.6 (https://www.python.org/downloads/) (If on Windows, must have access to PATH)
 ___________________________________________________
 How to run:
 Run the "run-mac.sh" file if you are on Mac, or run "run-windows.bat" if you are on Windows.
